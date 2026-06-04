@@ -5,7 +5,7 @@ An EasyEffects preset for T2Linux iMacs, tested on a 27-inch iMac 2020.
 
 I kind of forgot what changes I did to angelobdev's preset, but it has these effects:
 
-Limiter -> Filter -> Bass Enhancer -> Multiband Compressor -> Stereo Tools -> Equalizer
+Limiter -> Filter -> Bass Enhancer -> Stereo Tools -> Equalizer
 
 # How to install
 It depends on how you installed it.
