@@ -18,3 +18,6 @@ Place the provided mbp.json in the directory ~/.var/app/com.github.wwmm.easyeffe
 
 ## Manual installation
 Go to Output -> Presets and to the right of "New preset name", click on "Import preset file", and select the provided mbp.json file (assuming you downloaded it).
+
+# Known Issues
+- Sounds a bit too compressed?
