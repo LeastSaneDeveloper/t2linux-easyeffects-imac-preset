@@ -11,7 +11,10 @@ Limiter -> Filter -> Bass Enhancer -> Stereo Tools -> Equalizer
 It depends on how you installed it.
 
 ## Installed via Flatpak
-Replace the directory ~/.var/app/com.github.wwmm.easyeffects/config with the provided config directory.
+Add the provided json file to ~/.var/app/com.github.wwmm.easyeffects/data/easyeffects/output.
+
+## Install manually
+Click on the Ouput tab -> Presets -> Import Preset FIle -> Select provided json file.
 
 # Known Issues
-- Lots of lower frequencies sound muddled
+- Sometimes the audio sounds too busy.
