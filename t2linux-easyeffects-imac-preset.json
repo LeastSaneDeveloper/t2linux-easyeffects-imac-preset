@@ -15,6 +15,7 @@
         "equalizer#0": {
             "balance": 0.0,
             "bypass": false,
+            "decramp": "Off",
             "input-gain": 0.0,
             "left": {
                 "band0": {
@@ -738,7 +739,7 @@
             "alr-knee-smooth": -5.0,
             "alr-release": 50.0,
             "attack": 2.0,
-            "bypass": true,
+            "bypass": false,
             "dithering": "None",
             "gain-boost": false,
             "input-gain": 0.0,
@@ -748,7 +749,7 @@
             "link-to-sidechain": -80.01,
             "lookahead": 4.0,
             "mode": "Herm Thin",
-            "output-gain": -1.0,
+            "output-gain": -30.0,
             "oversampling": "None",
             "release": 8.0,
             "sidechain-preamp": 0.0,
